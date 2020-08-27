@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Browse from './components/browse';
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <Browse />
     </div>
   );
 }
