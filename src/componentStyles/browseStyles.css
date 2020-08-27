@@ -1,0 +1,9 @@
+
+
+
+.productCards {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  font-family: 'Montserrat';
+}
